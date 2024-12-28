@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "hugo-blog-awesome"
+
+[params]
+  defaultTheme = "dark"
+
+[params.author]
+  name = "Krishna Lohia"
+  bio = "This is a place for me to share what I learn"
+  avatar = "/images/avatar.jpg"
+
+[params.social]
+  linkedin = "zerodha"  # Just put your LinkedIn username, not the full URL
+  twitter = "krishnalohiaaa"  # Just put your Twitter handle without the URL
+  email = "your-email@example.com"
+
+[menu]
+  [[menu.main]]
+    pageRef="/"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    pageRef="/about"
+    name = "About"
+    url = "/about/"
+    weight = 20
