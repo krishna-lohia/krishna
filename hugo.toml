@@ -23,7 +23,7 @@ enableEmoji = true
     weight = 20
 
 [Languages.en-gb.params]
-  defaultColor = "dark"
+  defaultColor = "light"
   description = "From Swiggy delivery boy to Zerodha. #I'mRaju"
 
 [Languages.en-gb.params.author]
