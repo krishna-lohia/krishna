@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Krishna&#39;s Blog</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Krishna&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Magic of Words</title>
-      <link>/blog/magic-of-words/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/magic-of-words/</guid>
-      
-      <description>In and between each word lies an entire universe waiting to be discovered. Words have been nothing short of a gift and blessing to me. On this little corner of the internet, I hope they&amp;rsquo;ll be the same for you.</description>
-      
-    </item>
-    
-    <item>
-      <title>Welcome to My Blog</title>
-      <link>/blog/my-first-post/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-first-post/</guid>
-      
-      <description>Hello everyone!
-This is my first blog post. I&amp;rsquo;ll be sharing my learning journey and experiences here.
-Stay tuned for more posts!</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Krishna's Blog</title><link>/blog/</link><description>Recent content in Blog on Krishna's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The Magic of Words</title><link>/blog/the-magic-of-words/</link><pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/the-magic-of-words/</guid><description>In and in between each word lies an entire universe. Words have this wonderful ability to transport you to places that you not only wouldn&amp;rsquo;t have traveled but wouldn&amp;rsquo;t have imagined as well.
+Words have been a gift and blessing to me. They&amp;rsquo;ve helped me go down weird rabbit holes, learn wonderful things, and also meet amazing people. Words are portable magic – they not only reshape your inner universe but also remake you from the outside by bringing you closer to people that you otherwise wouldn&amp;rsquo;t have met.</description></item><item><title>Hello World</title><link>/blog/hello-world/</link><pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/hello-world/</guid><description>In and in between each word lies an entire universe. Words have this wonderful ability to transport you to places that you not only wouldn&amp;rsquo;t have traveled but wouldn&amp;rsquo;t have imagined as well.
+Words have been a gift and blessing to me. They&amp;rsquo;ve helped me go down weird rabbit holes, learn wonderful things, and also meet amazing people. Words are portable magic – they not only reshape your inner universe but also remake you from the outside by bringing you closer to people that you otherwise wouldn&amp;rsquo;t have met.</description></item></channel></rss>
