@@ -6,31 +6,36 @@ defaultContentLanguage = "en-gb"
 enableEmoji = true
 
 [Languages.en-gb]
- languageName = "English"
- contentDir = "content"
- weight = 1
+  languageName = "English"
+  contentDir = "content"
+  weight = 1
 
- [Languages.en-gb.menu]
- [[Languages.en-gb.menu.main]]
-   pageRef="/"
-   name = 'Home'
-   url = '/'
-   weight = 10
- [[Languages.en-gb.menu.main]]
-   pageRef="about"
-   name = 'About'
-   url = '/about/'
-   weight = 20
+[Languages.en-gb.menu]
+[[Languages.en-gb.menu.main]]
+  pageRef="/"
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[Languages.en-gb.menu.main]]
+  pageRef="blog"
+  name = 'Posts'
+  url = '/blog/'
+  weight = 15
+[[Languages.en-gb.menu.main]]
+  pageRef="about"
+  name = 'About'
+  url = '/about/'
+  weight = 20
 
 [Languages.en-gb.params]
- defaultColor = "light"
- description = "From Swiggy delivery boy to Zerodha. #I'mRaju"
+  defaultColor = "light"
+  description = "From Swiggy delivery boy to Zerodha. #I'mRaju"
 
 [Languages.en-gb.params.author]
- avatar = "avatar.jpg"
- intro = "Krishna's Blog"
- name = "Krishna Lohia"
- description = "A place on the internet to share my journey of going from being a Swiggy delivery boy to an accidentally competent employee at Zerodha. #I'mRaju"
+  avatar = "avatar.jpg"
+  intro = "Krishna's Blog"
+  name = "Krishna Lohia"
+  description = "A place on the internet to share my journey of going from being a Swiggy delivery boy to an accidentally competent employee at Zerodha. #I'mRaju"
 
 [[params.socialIcons]]
 name = "twitter"
