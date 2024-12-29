@@ -1,29 +1,37 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "My Blog"
+languageCode = 'en-us'
+title = "Krishna's Blog"
 theme = "hugo-blog-awesome"
+defaultContentLanguage = "en-gb"
+enableEmoji = true
 
-[params]
-  defaultTheme = "dark"
+[Languages.en-gb]
+  languageName = "English"
+  contentDir = "content"
+  weight = 1
 
-[params.author]
+  [Languages.en-gb.menu]
+  [[Languages.en-gb.menu.main]]
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[Languages.en-gb.menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+[Languages.en-gb.params]
+  defaultColor = "dark"
+  description = "From Swiggy delivery boy to Zerodha. #I'mRaju"
+
+[Languages.en-gb.params.author]
+  avatar = "avatar.jpg"
+  intro = "Krishna's Blog"
   name = "Krishna Lohia"
-  bio = "This is a place for me to share what I learn"
-  avatar = "/images/avatar.jpg"
+  description = "A place on the internet to share my journey of going from being a Swiggy delivery boy to an accidentally competent employee at Zerodha. #I'mRaju"
 
 [params.social]
-  linkedin = "zerodha"  # Just put your LinkedIn username, not the full URL
-  twitter = "krishnalohiaaa"  # Just put your Twitter handle without the URL
-  email = "your-email@example.com"
-
-[menu]
-  [[menu.main]]
-    pageRef="/"
-    name = "Home"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    pageRef="/about"
-    name = "About"
-    url = "/about/"
-    weight = 20
+  twitter = "krishnalohiaaa"
+  linkedin = "zerodha"

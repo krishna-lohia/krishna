@@ -5,3 +5,5 @@ draft: false
 ---
 
 In and between each word lies an entire universe waiting to be discovered. Words have been nothing short of a gift and blessing to me. On this little corner of the internet, I hope they'll be the same for you.
+
+-- Bhuvan

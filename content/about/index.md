@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2024-12-28
 draft: false
+type: "page"
 ---
 
 Hello! I'm Krishna.
