@@ -35,7 +35,7 @@ enableEmoji = true
   avatar = "avatar.jpg"
   intro = "Krishna's Blog"
   name = "Krishna Lohia"
-  description = "Hi👋. I'm Krishna and this is my corner of the internet where I share all my lame jokes. I also try to do things at Zerodha."
+  description = "Hi👋 I'm Krishna and this is my corner of the internet where I share all my lame jokes. I also try to do things at Zerodha."
 
 [[params.socialIcons]]
 name = "twitter"
