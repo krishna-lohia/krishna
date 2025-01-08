@@ -1,6 +1,6 @@
 ---
 title: "I read about the hotel sector for the first time"
-date: 2024-01-08
+date: 2025-01-08
 draft: false
 ---
 
