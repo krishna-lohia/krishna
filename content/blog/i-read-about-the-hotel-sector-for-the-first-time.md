@@ -4,7 +4,7 @@ date: 2025-01-08
 draft: false
 ---
 
-So today in _The Daily Brief_ I had covered written about the hotels sector. [ICRA](https://www.icra.in/CommonService/OpenMediaS3?Key=f4ac67da-8686-447b-b268-9813885a17cc) had released a note saying that the revenue per room available for hotels would go up ~10%, how the demand for the hotel rooms are increasing and that there aren't enough rooms to meet the demand of the people. What that means the supply (hotel rooms) is less than the demand (people wanting hotel rooms). 
+So today in _The Daily Brief_ I wrote about the hotels sector. [ICRA](https://www.icra.in/CommonService/OpenMediaS3?Key=f4ac67da-8686-447b-b268-9813885a17cc) had released a note saying that the revenue per room available for hotels would go up ~10%, how the demand for the hotel rooms are increasing and that there aren't enough rooms to meet the demand of the people. What that means the supply (hotel rooms) is less than the demand (people wanting hotel rooms). 
 
 Now, the next question is why not just have more hotel rooms (at least that’s a question that came to my mind immediately) but the thing is constructing a hotel takes time. You can’t GPT your way to making more hotels. 
 
